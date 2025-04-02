@@ -1,5 +1,5 @@
 A beginner-friendly C++ course code repository.
-This repository contains C++ programs designed for beginners and intermediate learners. The codes cover fundamental to advanced concepts of C++ programming.
+This repository contains C++ programs in a single file designed for beginners and intermediate learners. The codes cover fundamental to advanced concepts of C++ programming.
 Topics Covered
 ✅ Variables and Data Types
 ✅ Loops and Conditional Statements
